@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main()
-{
 
-    printf("i love ayaka");
-    // i really do <3
-    return 0;
+{
+	printf("i don't know about your ayaka :)");
+
+	return 0;                   
 }
